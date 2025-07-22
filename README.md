@@ -1,2 +1,2 @@
 # abhishekhbabupythongames
-game projects for beginner
+python game projects for beginner
